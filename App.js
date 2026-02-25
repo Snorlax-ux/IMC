@@ -13,6 +13,10 @@ export default function App() {
         style={styles.TextInput}
         placeholder='digite sua altura'
       />
+      <TextInput
+        style={styles.TextInput}
+        placeholder='digite seu peso'
+      />
       <StatusBar style="auto" />
     </View>
   );
